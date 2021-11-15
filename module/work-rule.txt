@@ -1,0 +1,7 @@
+#!name=Work-Rule
+#!desc=Rules for common work tools
+
+[Rule]
+DOMAIN-SUFFIX,figma.com,🔰国外流量
+DOMAIN-SUFFIX,slack.com,🔰国外流量
+DOMAIN-SUFFIX,slack-edge.com,🔰国外流量
