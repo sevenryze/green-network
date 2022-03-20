@@ -1,6 +1,9 @@
 #!name=Work-Rule
 #!desc=Rules for common work tools
 
+[General]
+loglevel = warning
+
 [Rule]
 DOMAIN-KEYWORD,figma,🔰国外流量
 DOMAIN-KEYWORD,amazon,🔰国外流量
