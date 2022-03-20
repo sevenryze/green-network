@@ -7,6 +7,7 @@ loglevel = warning
 [Rule]
 DOMAIN-KEYWORD,figma,🔰国外流量
 DOMAIN-KEYWORD,amazon,🎬国外媒体
+DOMAIN-KEYWORD,cloudfront,🎬国外媒体
 DOMAIN-KEYWORD,discord,🔰国外流量
 DOMAIN-KEYWORD,npmjs,🔰国外流量
 PROCESS-NAME,zoom.us,🎬国外媒体
