@@ -1,8 +1,13 @@
 #!name=Work-Rule
 #!desc=Rules for common work tools
 
+[Proxy Group]
+🇺🇸美国流量 = select, 🔰国外流量, 美国实验性 IEPL 中继 E01, 美国实验性 IEPL 中继 E02, 美国实验性 IEPL 中继 E03, 美国实验性 IEPL 中继 E04, 美国实验性 IEPL 中继 E05, 美国高级 IEPL 中继 E01, 美国高级 IEPL 中继 E02, 美国高级 IEPL 中继 E03, 美国高级 IEPL 中继 E04, 美国高级 IEPL 中继 E05
+
 [Rule]
-DOMAIN-SUFFIX,figma.com,🔰国外流量
-DOMAIN-SUFFIX,slack.com,🔰国外流量
-DOMAIN-SUFFIX,slack-edge.com,🔰国外流量
-DOMAIN-SUFFIX,amazon.com,🔰国外流量
+DOMAIN-KEYWORD,figma,🔰国外流量
+DOMAIN-KEYWORD,amazon,🔰国外流量
+DOMAIN-KEYWORD,discord,🔰国外流量
+PROCESS-NAME,zoom.us,🇺🇸美国流量
+PROCESS-NAME,ssh,🚀直接连接
+
