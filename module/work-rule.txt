@@ -13,4 +13,5 @@ DOMAIN-KEYWORD,discord,🔰国外流量
 DOMAIN-KEYWORD,npmjs,🔰国外流量
 PROCESS-NAME,zoom.us,🎬国外媒体
 PROCESS-NAME,ssh,🚀直接连接
+DOMAIN-SUFFIX,dev.to,🔰国外流量
 
