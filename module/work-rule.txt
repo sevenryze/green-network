@@ -3,8 +3,8 @@
 
 [General]
 loglevel = warning
-internet-test-url = https://baidu.com
-proxy-test-url = https://www.google.com
+internet-test-url = http://baidu.com
+proxy-test-url = http://www.google.com/generate_204
 test-timeout = 3
 
 [Rule]
@@ -16,4 +16,5 @@ DOMAIN-KEYWORD,discord,🔰国外流量
 DOMAIN-KEYWORD,npmjs,🔰国外流量
 PROCESS-NAME,zoom.us,🎬国外媒体
 DOMAIN-SUFFIX,dev.to,🔰国外流量
+PROCESS-NAME,discover,DIRECT
 
