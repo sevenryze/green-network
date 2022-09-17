@@ -3,6 +3,9 @@
 
 [General]
 loglevel = warning
+internet-test-url = https://baidu.com
+proxy-test-url = https://www.google.com
+test-timeout = 3
 
 [Rule]
 DOMAIN-KEYWORD,figma,🔰国外流量
