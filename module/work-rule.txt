@@ -8,14 +8,14 @@ proxy-test-url = http://www.google.com/generate_204
 test-timeout = 3
 
 [Rule]
+PROCESS-NAME,zoom.us,🎬国外媒体
+DOMAIN-KEYWORD,amazon,🔰国外流量
+DOMAIN-KEYWORD,cloudfront,🔰国外流量
 DOMAIN-KEYWORD,figma,🔰国外流量
-#DOMAIN-KEYWORD,amazon,🎬国外媒体
-#DOMAIN-KEYWORD,cloudfront,🎬国外媒体
-#DOMAIN-KEYWORD,linkedin,🎬国外媒体
-#DOMAIN-KEYWORD,omtrdc,🎬国外媒体
+DOMAIN-KEYWORD,linkedin,🔰国外流量
+DOMAIN-KEYWORD,omtrdc,🔰国外流量
 DOMAIN-KEYWORD,discord,🔰国外流量
 DOMAIN-KEYWORD,npmjs,🔰国外流量
-PROCESS-NAME,zoom.us,🎬国外媒体
 DOMAIN-SUFFIX,dev.to,🔰国外流量
 PROCESS-NAME,discover,DIRECT
 DOMAIN-KEYWORD,tencent,DIRECT
