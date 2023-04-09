@@ -15,4 +15,3 @@ DOMAIN-KEYWORD,omtrdc,🔰国外流量
 DOMAIN-KEYWORD,discord,🔰国外流量
 DOMAIN-KEYWORD,npmjs,🔰国外流量
 DOMAIN-SUFFIX,dev.to,🔰国外流量
-DOMAIN-KEYWORD,amazonaws,DIRECT
